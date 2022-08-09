@@ -1,22 +1,30 @@
 # TODO App - ReactJs Version
 
-> Description the project.
+> A React single page todo application. It teaches a beginner the necessary concepts and skills needed to build a react application. It is a single page application that allows the user to create, edit, and delete todo items. The application is built using component based architecture, functional components, hooks, css module, and react-router-dom.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML, CSS, ReactJs
+- React Router
+- NodeJS
 
 ## Live Demo (if available)
 
 [Live Demo Link](https://livedemo.com)
 
-
 ## Getting Started
 
-In the project directory, you can run:
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+- You need to have a nodejs installed on your machine.
+- You need to have a code editor installed on your local machine. I recommend using [VSCode](https://code.visualstudio.com/).
+
+### Setup
+- Clone the repository `git@github.com:sireclifford/reactjs-todo.git` to your local machine.
+- Open the terminal and navigate to the root of the repository.
+- Run the following command:
 
 ### `npm start`
 
@@ -52,37 +60,12 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@sireclifford](https://github.com/sireclifford)
+- Twitter: [@sire_clifford](https://twitter.com/sire_clifford)
 
 ## 🤝 Contributing
 
@@ -96,10 +79,5 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Hat tip to `https://ibaslogic.com/` whose tutorials was followed and code used
 
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
